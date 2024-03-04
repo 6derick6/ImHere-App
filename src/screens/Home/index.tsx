@@ -32,8 +32,8 @@ export function Home(){
 
   return(
     <View style={styles.container}>
-      <Text style={styles.eventName}>Nome do Evento</Text>
-      <Text style={styles.eventDate}>Sexta, 4 de novembro de 2024</Text>
+      <Text style={styles.eventName}>Evento Teste</Text>
+      <Text style={styles.eventDate}>Segunda, 4 de março de 2024</Text>
 
       <View style={styles.form}>
         <TextInput 
